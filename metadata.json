@@ -1,0 +1,6 @@
+{
+  "name": "Bảng tuần hoàn các nguyên tố hóa học",
+  "description": "Bảng tuần hoàn 118 nguyên tố hóa học tương tác với cấu hình electron, sơ đồ orbital theo quy tắc Hund, tìm kiếm và chi tiết nguyên tố.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
